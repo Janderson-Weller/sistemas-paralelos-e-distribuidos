@@ -1,4 +1,4 @@
-# sistemas-paralelos-e-distribuidos
+# Sistemas Paralelos e Distribuidos
 Trabalho avaliativo da matéria Sistemas Paralelos e Distribuídos
 
 # Projeto de Chat em Tempo Real
